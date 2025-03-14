@@ -3,6 +3,8 @@
 ## About Me
 Full-stack developer with a multicultural background and a passion for building innovative solutions. My diverse upbringing across multiple countries has shaped my perspective and ability to collaborate in diverse environments. I'm fluent in English and French, which enhances my ability to communicate effectively in both technical and collaborative settings.
 
+🎓 Currently pursuing a Bachelor of Technology in Software Development at Southern Alberta Institute of Technology (Class of 2027).
+
 ### 🔭 Current Focus
 - Building scalable full-stack applications
 - Exploring innovative solutions in real estate and financial technology
@@ -22,9 +24,28 @@ Full-stack developer with a multicultural background and a passion for building 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 🚀 Featured Projects
-- **Real Estate Market Assessment Application**: Built with Avenue Living, featuring data integration from multiple sources and advanced ML-powered screening features
-- **Personal Finance Management Application**: AI-powered financial management app with chatbot integration
-- **Cross-Platform Event Management System**: Desktop application built with MAUI framework for streamlined event tracking
+
+#### Real Estate Market Assessment Application
+- Collaborated with Avenue Living to develop a comprehensive real estate analysis tool
+- Integrated data from multiple sources (CoStar Group, Yardi Matrix, Zillow)
+- Implemented ML-powered screening features for advanced real estate investment decisions
+- Built user-friendly interface for efficient data analysis and visualization
+- Utilized Python and FastAPI for backend with React and JavaScript frontend
+- Managed data with PostgreSQL for scalability and performance
+
+#### Personal Finance Management Application
+- Developed an AI-powered financial management application
+- Implemented chatbot for personalized financial advice
+- Created features for tracking income, expenses, and savings with automatic updates
+- Designed intuitive UI focused on accessibility and financial literacy
+- Built robust data handling for secure storage of user financial information
+- Utilized Python for backend development and chatbot integration
+
+#### Events Management System (Cross-Platform Desktop App)
+- Developed using MAUI framework for cross-platform compatibility
+- Designed user-friendly interface for event tracking and management
+- Implemented robust database system for seamless data storage and retrieval
+- Focused on scalability and performance optimization
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=altesse-imena&show_icons=true&theme=dracula)
