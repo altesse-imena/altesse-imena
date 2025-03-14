@@ -3,12 +3,8 @@
 ## About Me
 Full-stack developer with a multicultural background and a passion for building innovative solutions. My diverse upbringing across multiple countries has shaped my perspective and ability to collaborate in diverse environments. I'm fluent in English and French, which enhances my ability to communicate effectively in both technical and collaborative settings.
 
-🎓 Currently pursuing a Bachelor of Technology in Software Development at Southern Alberta Institute of Technology (Class of 2027).
+🎓 Currently pursuing a Bachelor of Technology in Software Development at Southern Alberta Institute of Technology.
 
-### 🔭 Current Focus
-- Building scalable full-stack applications
-- Exploring innovative solutions in real estate and financial technology
-- Developing cross-platform desktop applications
 
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -34,21 +30,12 @@ Full-stack developer with a multicultural background and a passion for building 
 - Managed data with PostgreSQL for scalability and performance
 
 #### Personal Finance Management Application
-- Developed an AI-powered financial management application
+- Developed a financial management application, powered by artificial intelligence.
 - Implemented chatbot for personalized financial advice
 - Created features for tracking income, expenses, and savings with automatic updates
 - Designed intuitive UI focused on accessibility and financial literacy
 - Built robust data handling for secure storage of user financial information
 - Utilized Python for backend development and chatbot integration
-
-#### Events Management System (Cross-Platform Desktop App)
-- Developed using MAUI framework for cross-platform compatibility
-- Designed user-friendly interface for event tracking and management
-- Implemented robust database system for seamless data storage and retrieval
-- Focused on scalability and performance optimization
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=altesse-imena&show_icons=true&theme=dracula)
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/altesse-imena)
