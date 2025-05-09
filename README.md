@@ -1,5 +1,3 @@
-# Hi there, I'm Altesse 👋
-
 ## About Me
 Full-stack engineer with a multicultural background and a passion for building innovative solutions. My diverse upbringing across multiple countries has shaped my perspective and ability to collaborate in diverse environments. I'm fluent in English and French, which enhances my ability to communicate effectively in both technical and collaborative settings.
 
