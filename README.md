@@ -6,15 +6,14 @@
 
 <p>
   <a href="https://altesse-imena.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" height="40" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/altesse-imena" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/altesse-imena" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=altesse-imena&style=for-the-badge&color=6E96F7&label=PROFILE+VIEWS" alt="Profile views"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=altesse-imena&style=flat-square&color=6E96F7&label=Profile+Views" alt="Profile views"/>
 </p>
 
 </div>
