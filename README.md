@@ -74,12 +74,6 @@ Currently pursuing a **Bachelor of Technology in Software Development** at SAIT.
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=altesse-imena&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## Contribution Activity
