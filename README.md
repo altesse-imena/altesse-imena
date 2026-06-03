@@ -1,43 +1,211 @@
-## About Me
-Full-stack engineer with a multicultural background and a passion for building innovative solutions. My diverse upbringing across multiple countries has shaped my perspective and ability to collaborate in diverse environments. I'm fluent in English and French, which enhances my ability to communicate effectively in both technical and collaborative settings.
+<div align="center">
 
-🎓 Currently pursuing a Bachelor of Technology in Software Development at Southern Alberta Institute of Technology.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Altesse%20Imena&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20things%20that%20matter%20with%20code%20and%20AI&descAlignY=55&descSize=16" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=6E96F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;AI+Application+Builder;Freelance+Engineer;BT+Software+Dev+%40+SAIT;TypeScript+%2F+JavaScript+%2F+Python)](https://git.io/typing-svg)
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<p>
+  <a href="https://altesse-imena.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/altesse-imena" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/altesse-imena" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=altesse-imena&style=for-the-badge&color=6E96F7&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-### 🚀 Featured Projects
-
-#### Real Estate Market Assessment Application
-- Collaborated with Avenue Living to develop a comprehensive real estate analysis tool
-- Integrated data from multiple sources (CoStar Group, Yardi Matrix, Zillow)
-- Implemented ML-powered screening features for advanced real estate investment decisions
-- Built user-friendly interface for efficient data analysis and visualization
-- Utilized Python and FastAPI for backend with React and JavaScript frontend
-- Managed data with PostgreSQL for scalability and performance
-
-#### Personal Finance Management Application
-- Developed a financial management application, powered by artificial intelligence.
-- Implemented chatbot for personalized financial advice
-- Created features for tracking income, expenses, and savings with automatic updates
-- Designed intuitive UI focused on accessibility and financial literacy
-- Built robust data handling for secure storage of user financial information
-- Utilized Python for backend development and chatbot integration
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/altesse-imena)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:imenaltesse@gmail.com)
+</div>
 
 ---
-⭐️ From [altesse-imena](https://github.com/altesse-imena)
+
+## About Me
+
+I'm a full-stack developer building AI-powered applications, freelance client sites, and data-driven tools. Multicultural background — fluent in **English** and **French** — which shapes how I approach collaboration and communication in technical environments.
+
+Currently pursuing a **Bachelor of Technology in Software Development** at SAIT. I've shipped projects across web, mobile (Swift), game dev (Unity/C#), and systems (Rust) — from real estate investment platforms to space exploration experiences.
+
+- Building AI-integrated apps with modern web stacks
+- Freelance web development for clients (Astro, TypeScript, Next.js)
+- Data structures & algorithms — Java, Python
+- Portfolio: **[altesse-imena.vercel.app](https://altesse-imena.vercel.app/)**
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Frontend & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tools & Platforms**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=altesse-imena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E96F7&icon_color=6E96F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altesse-imena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E96F7&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=altesse-imena&theme=tokyonight&hide_border=true&background=0d1117&ring=6E96F7&fire=6E96F7&currStreakLabel=6E96F7)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>My developer portfolio — built with TypeScript, showcasing projects, experience, and contact. Live on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://github.com/altesse-imena/Personal-Portfolio">
+        <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://personal-portfolio-three-alpha-91.vercel.app">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 AI Finance Manager</h3>
+      <p>AI-powered personal finance management application. Tracks spending, budgets, and financial goals with intelligent insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI-Powered-6E96F7?style=flat-square"/>
+      </p>
+      <a href="https://github.com/altesse-imena/AI-Personal-Finance-Management-Application">
+        <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 AstroTrip</h3>
+      <p>Your personal journey through space from your birthdate to distant planets. An interactive space exploration experience built with JavaScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/altesse-imena/AstroTrip">
+        <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Instagram Account Analysis Tool</h3>
+      <p>TypeScript-powered Instagram account management and analytics tool for tracking engagement and account performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <a href="https://github.com/altesse-imena/Instagram-Account-Analysis-Tool">
+        <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Undetectable AI Assistant</h3>
+      <p>A stealth AI assistant built with JavaScript and Rust — explores the intersection of AI tooling and performance-critical web tech.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <a href="https://github.com/altesse-imena/undetectable-AI-assistant">
+        <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Shift Scheduler</h3>
+      <p>Python-based scheduling system for optimizing hospital staff shift assignments. Applies constraint-solving to real-world resource allocation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/altesse-imena/hospital-shift-scheduler">
+        <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Real Estate Market Assessment</h3>
+      <p>Collaborated with <strong>Avenue Living</strong> to build a comprehensive real estate analysis platform. Integrated CoStar Group, Yardi Matrix, and Zillow data with ML-powered screening for investment decisions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/Client%20Work-Private-6E96F7?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Stick Fight MVP</h3>
+      <p>A multiplayer stick-fighting game prototype built in C# with Unity. Implements core game mechanics, collision systems, and player physics from scratch.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+      </p>
+      <a href="https://github.com/altesse-imena/stick-fight-mvp">
+        <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altesse-imena/altesse-imena/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altesse-imena/altesse-imena/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/altesse-imena/altesse-imena/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+> To enable the snake animation, add this GitHub Actions workflow to your profile repo:
+> `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk) for setup.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
