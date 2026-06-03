@@ -22,14 +22,29 @@
 
 ## About Me
 
-I'm a full-stack developer building AI-powered applications, freelance client sites, and data-driven tools. Multicultural background — fluent in **English** and **French** — which shapes how I approach collaboration and communication in technical environments.
+<div align="center">
 
-Currently pursuing a **Bachelor of Technology in Software Development** at SAIT. I've shipped projects across web, mobile (Swift), game dev (Unity/C#), and systems (Rust) — from real estate investment platforms to space exploration experiences.
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="600">
+      <p><em>Software developer building at the intersection of AI and real-world infrastructure.</em></p>
+      <p>
+        Currently shipping <strong>Pulse</strong> — an AI-powered desktop assistant — and <strong>Cascade</strong>,<br/>
+        a performance management system serving <strong>2,500+ employees</strong> across a 5-tier org hierarchy.
+      </p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/SAIT-Software%20Development-6E96F7?style=flat-square"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/📍-Calgary-6E96F7?style=flat-square"/>
+        &nbsp;
+        <img src="https://img.shields.io/badge/EN%20%2F%20FR-Bilingual-6E96F7?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- Building AI-integrated apps with modern web stacks
-- Freelance web development for clients (Astro, TypeScript, Next.js)
-- Data structures & algorithms — Java, Python
-- Portfolio: **[altesse-imena.vercel.app](https://altesse-imena.vercel.app/)**
+</div>
 
 ---
 
