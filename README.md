@@ -76,7 +76,7 @@ Currently pursuing a **Bachelor of Technology in Software Development** at SAIT.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=altesse-imena&theme=tokyonight&hide_border=true&background=0d1117&ring=6E96F7&fire=6E96F7&currStreakLabel=6E96F7)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=altesse-imena&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
