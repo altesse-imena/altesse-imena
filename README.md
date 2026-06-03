@@ -65,17 +65,6 @@ Currently pursuing a **Bachelor of Technology in Software Development** at SAIT.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=altesse-imena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E96F7&icon_color=6E96F7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altesse-imena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E96F7&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
